@@ -12,4 +12,6 @@ Nessa versão, o usuário joga individualmente sendo o jogador 1 enquanto que o 
  - CSS;
  - JAVASCRIPT;
 
- [Acesse o jogo criado clicando aqui](https://natansw.github.io/Pong-Game/)
+ [Acesse o jogo criado clicando aqui][def]
+
+[def]: https://natansw.github.io/Pong-Game/
