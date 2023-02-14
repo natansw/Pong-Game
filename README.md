@@ -7,11 +7,17 @@ Este projeto foi desenvolvido em um curso sobre desenvolvimento de jogos com Jav
 Nessa versão, o usuário joga individualmente sendo o jogador 1 enquanto que o jogador 2 é manipulado automaticamente. As partidas são programadas pra serem encerradas quando um dos jogadores marcar 3 pontos.
 
 ---
+## **Como jogar:**
+W - mover o jogador para cima.
+
+S - mover o jogador para baixo.
+
+---
 ## **Tecnologias utilizadas:**
  - HTML;
  - CSS;
  - JAVASCRIPT;
-
+---
  [Acesse o jogo criado clicando aqui][def]
 
 [def]: https://natansw.github.io/Pong-Game/
